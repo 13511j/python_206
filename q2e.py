@@ -3,7 +3,6 @@
 """
 Created on Fri Dec 10 22:57:09 2021
 
-@author: janweaver
 """
 
 #using the above class (class from question 2d) write code that creates a new BankAccount
