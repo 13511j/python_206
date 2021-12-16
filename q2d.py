@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 10 22:22:20 2021
-
-@author: janweaver
 """
 
 #make a class called "BankAccount" that has 3 properties
