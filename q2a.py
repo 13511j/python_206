@@ -3,7 +3,6 @@
 """
 Created on Thu Dec  9 20:11:53 2021
 
-@author: janweaver
 """
 
 #write a function called EvensAndOdds that takes a list as a parameter.
