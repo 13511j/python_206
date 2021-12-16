@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 10 21:02:27 2021
-
-@author: janweaver
 """
 
 #write a function that has three parameters, x y, and z, and returns a list
